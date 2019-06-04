@@ -1,2 +1,2 @@
-# GAN_Idea
-This repository includes idea for GAN projects
+# Idea
+This repository includes ideas for AI projects
